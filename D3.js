@@ -117,8 +117,8 @@ console.log();
 for (let i = 0; i < starWarsCharacters.length; i++) {
   characters.push(starWarsCharacters[i].name)
 }
-console.log('starWarscharacters', starWarsCharacters)
-
+console.log('characters', characters)
+// ho cambiato questo perchè era corretto forse ci siamo capiti male su discord
 
 
 /* ESERCIZIO 3
